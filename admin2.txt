@@ -1,0 +1,15 @@
+TURKSAT KABLONET | Title: TÜRKSAT Uydu Haberleşme Kablo TV ve İşletme A.Ş | group: 192.168.0.1
+user: admin
+password: admin
+TENDA | Title: Tenda Teknoloji Tic. Ltd. Şti | group: 192.168.0.1-192.168.2.1
+user: admin
+password: empty
+TURKNET | Title: TurkNet İletişim Hizmetleri A.Ş | group: 192.168.0.1-192.168.1.1 (varies depending on infrastructure)
+user: admin
+password: admin
+MILLENiCOM | Title: Millenicom Telekomünikasyon Hizmetleri A.Ş | group: 192.168.0.1-192.168.1.1 (varies depending on infrastructure)
+user: admin
+password: admin
+VODAFONE (192.168.0.1) | Title: Vodafone Telekomünikasyon A.Ş | group: 192.168.0.1-192.168.1.1 (varies depending on infrastructure)
+user: admin
+password: admin
