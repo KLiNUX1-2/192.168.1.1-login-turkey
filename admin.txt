@@ -1,0 +1,9 @@
+TURK TELEKOM | Title: Türk Telekomünikasyon A.Ş. | group: 192.168.1.1
+user: admin
+password: turktelekom
+TURKCELL | Title: Turkcell İletişim Hizmetleri A.Ş | group: 192.168.1.1
+user: admin
+password: superonline
+VODAFONE | Title: Vodafone Telekomünikasyon A.Ş | group: 192.168.1.1
+user: admin, vodafone 
+password: vodafone, admin, 1234
